@@ -1,0 +1,9 @@
+{
+  "name": "goggles",
+  "version": "1.0.0",
+  "description": "oss chat",
+  "main": "index.js",
+  "repository": "https://github.com/advilm/goggles",
+  "author": "Adil Mohiuddin <amohi9046@gmail.com>",
+  "license": "MIT"
+}
